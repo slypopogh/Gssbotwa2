@@ -3,20 +3,20 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://telegra.ph/file/23998e60fad313cd316fc.jpg'
+global.linkGroup = 'https://telegra.ph/file/23998e60fad313cd316fc.jpg'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
-global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
+global.ownername = "ODS TECHNOLOGIES 𝛥𝛪";
+global.owner = ['233596780685'];
+global.premium = ['233596780685'];
+global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 ODS TECHNOLOGIES";
+global.author = "ODS TECHNOLOGIES 𝚫";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
 global.typemenu = "v1"
 global.menuType = "2"
-global.autoswview = true
+global.autoswview = false
 global.autoread = false
 global.available = false
 global.autoTyping = false
